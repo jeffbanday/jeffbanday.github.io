@@ -11511,3 +11511,7 @@ html {
 .profile_pic {
   border-radius: 100%;
 }
+
+.fa-arrow-right, .fa-arrow-left{
+  color: #198754;
+}
