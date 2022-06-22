@@ -11514,6 +11514,11 @@ html {
 
 .fa-arrow-right, .fa-arrow-left{
   color: #198754;
-  height: 10rem;
-  width: 10rem;
+  height: 5rem;
+  width: 5rem;
+}
+
+.logo-midsize {
+  height: 6rem;
+  width: 6rem;
 }
