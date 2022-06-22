@@ -11514,4 +11514,6 @@ html {
 
 .fa-arrow-right, .fa-arrow-left{
   color: #198754;
+  height: 5rem;
+  width: 5rem;
 }
