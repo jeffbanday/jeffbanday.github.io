@@ -11401,6 +11401,10 @@ html {
     font-size: 1.75em;
     transition: font-size 0.3s;
   }
+  #mainNav .logo-midsize {
+    height: 4rem;
+    width: 4rem;
+  }
   #mainNav .navbar-nav {
     margin-top: 0;
   }
@@ -11528,6 +11532,6 @@ html {
 }
 
 .logo-midsize {
-  height: 6rem;
-  width: 6rem;
+  height: 5rem;
+  width: 5rem;
 }
